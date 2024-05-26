@@ -14,8 +14,8 @@ This is a simple shopping cart application built with Vue.js. It allows users to
 
 ## Setup
 
-1. **Clone the repository:** `git clone https://github.com/your-username/vue-shopping-cart.git`
-2. **Navigate to the project directory:** `cd vue-shopping-cart`
+1. **Clone the repository**
+2. **Navigate to the project directory:** `cd shopping-cart`
 3. **Install dependencies:** `npm install`
 4. **Start the development server:** `npm run dev`
 
