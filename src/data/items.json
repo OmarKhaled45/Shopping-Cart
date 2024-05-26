@@ -1,0 +1,11 @@
+[
+    { "id": 1, "name": "Item 1", "title": "Title 1", "image": "https://via.placeholder.com/100", "categoryId": 1, "price": 50.00 },
+    { "id": 2, "name": "Item 2", "title": "Title 2", "image": "https://via.placeholder.com/100", "categoryId": 2, "price": 75.00 },
+    { "id": 3, "name": "Item 3", "title": "Title 3", "image": "https://via.placeholder.com/100", "categoryId": 3, "price": 100.00 },
+    { "id": 4, "name": "Item 4", "title": "Title 4", "image": "https://via.placeholder.com/100", "categoryId": 1, "price": 125.00 },
+    { "id": 5, "name": "Item 5", "title": "Title 5", "image": "https://via.placeholder.com/100", "categoryId": 2, "price": 150.00 },
+    { "id": 6, "name": "Item 6", "title": "Title 6", "image": "https://via.placeholder.com/100", "categoryId": 3, "price": 175.00 },
+    { "id": 7, "name": "Item 7", "title": "Title 7", "image": "https://via.placeholder.com/100", "categoryId": 1, "price": 200.00 },
+    { "id": 8, "name": "Item 8", "title": "Title 8", "image": "https://via.placeholder.com/100", "categoryId": 2, "price": 225.00 }
+  ]
+  
