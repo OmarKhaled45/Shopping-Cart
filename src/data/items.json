@@ -1,8 +1,8 @@
 [
-  { "id": 1, "name": "Samsung Galaxy A54 Dual SIM 8GB", "title": "Samsung Galaxy A54 Dual SIM 8GB", "image": "../src/assets/img/item-1.png", "categoryId": 1, "price": 19799.00 },
-  { "id": 2, "name": "Wired Mouse M10", "title": "Wired Mouse M10", "image": "../src/assets/img/item-2.png", "categoryId": 2, "price": 79.00 },
-  { "id": 3, "name": "Samsung Galaxy Watch 6", "title": "Samsung Galaxy Watch 6", "image": "../src/assets/img/item-3.png", "categoryId": 1, "price": 9795.00 },
-  { "id": 4, "name": "Joyroom Jr-Ok3 Phone Holder", "title": "Joyroom Jr-Ok3 Phone Holder", "image": "../src/assets/img/item-4.png", "categoryId": 3, "price": 151.00 },
-  { "id": 5, "name": "Joyroom JR-T012 power bank 10000mAh", "title": "Joyroom JR-T012 power bank 10000mAh", "image": "../src/assets/img/item-5.png", "categoryId": 3, "price": 494.00 },
-  { "id": 6, "name": "HP Wired Gaming Mouse 7", "title": "HP Wired Gaming Mouse 7", "image": "../src/assets/img/item-6.png", "categoryId": 2, "price": 70.00 }
+  { "id": 1, "name": "Samsung Galaxy A54 Dual SIM 8GB", "title": "Samsung Galaxy A54 Dual SIM 8GB", "image": "../../public/assets/img/item-1.png", "categoryId": 1, "price": 19799.00 },
+  { "id": 2, "name": "Wired Mouse M10", "title": "Wired Mouse M10", "image": "../../public/assets/img/item-2.png", "categoryId": 2, "price": 79.00 },
+  { "id": 3, "name": "Samsung Galaxy Watch 6", "title": "Samsung Galaxy Watch 6", "image": "../../public/assets/img/item-3.png", "categoryId": 1, "price": 9795.00 },
+  { "id": 4, "name": "Joyroom Jr-Ok3 Phone Holder", "title": "Joyroom Jr-Ok3 Phone Holder", "image": "../../public/assets/img/item-4.png", "categoryId": 3, "price": 151.00 },
+  { "id": 5, "name": "Joyroom JR-T012 power bank 10000mAh", "title": "Joyroom JR-T012 power bank 10000mAh", "image": "../../public/assets/img/item-5.png", "categoryId": 3, "price": 494.00 },
+  { "id": 6, "name": "HP Wired Gaming Mouse 7", "title": "HP Wired Gaming Mouse 7", "image": "../../public/assets/img/item-6.png", "categoryId": 2, "price": 70.00 }
 ]
