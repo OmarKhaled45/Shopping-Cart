@@ -58,7 +58,7 @@ export default {
 
 <template>
     <div class="success-page sec-spacing">
-        <img src="../../public/assets/img/success.svg" alt="success icon">
+        <img src="../assets/img/success.svg" alt="success icon">
         <h1>Success!</h1>
         <p>Your purchase was successful!</p>
         <p>You will be redirected to the home page shortly.</p>
