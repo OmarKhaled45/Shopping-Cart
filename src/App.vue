@@ -1,9 +1,3 @@
-<template>
-  <div id="app">
-    <router-view></router-view>
-  </div>
-</template>
-
 <script>
 import { ref, onMounted } from 'vue';
 import CategoryFilter from './components/CategoryFilter.vue';
@@ -18,13 +12,11 @@ export default {
 </script>
 
 <style lang="scss">
-.item-list {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-}
-
-button {
-  margin: 20px;
-}
 </style>
+
+<template>
+  <div id="app">
+    <router-view></router-view>
+  </div>
+</template>
+

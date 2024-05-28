@@ -1,0 +1,58 @@
+.pt-0 {
+    padding-top: 0 !important;
+}
+
+.pb-0 {
+    padding-bottom: 0 !important;
+}
+
+.pr-0 {
+    padding-right: 0 !important;
+}
+
+.pl-0 {
+    padding-left: 0 !important;
+}
+
+.py-0 {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+.px-0 {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+}
+
+.row {
+    --g-x: 1rem;
+    --g-y: 1rem;
+
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(var(--g-y)* -1);
+
+    &>.col {
+        padding: calc(var(--g-y) * .5) calc(var(--g-x) * .5) calc(var(--g-y) * .5) calc(var(--g-x) * .5);
+    }
+}
+
+.container,
+.sec-spacing {
+    padding: var(--sec-spacing-top) var(--sec-spacing-x) var(--sec-spacing-bottom) var(--sec-spacing-x);
+}
+
+.sec-spacing {
+    &.row {
+        padding-right: calc(var(--sec-spacing-x) - calc(var(--g-x) * .5));
+        padding-left: calc(var(--sec-spacing-x) - calc(var(--g-x) * .5));
+    }
+}
+
+.justify-all-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
