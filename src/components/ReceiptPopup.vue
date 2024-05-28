@@ -177,7 +177,7 @@ export default {
                                 <td>
                                     <div class="item-cont" :aria-label="item.name + ' costs ' + formatPrice(item.price) + ' EGP'">
                                         <div class="img-cont">
-                                            <img :src="item.image" :alt="item.title">
+                                            <img :src="item.image" loading="lazy" :alt="item.title">
                                         </div>
                                         {{ item.name }}
                                     </div>
