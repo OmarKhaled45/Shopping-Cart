@@ -140,7 +140,7 @@ export default {
     <div class="col">
         <div class="item-card" :aria-label="item.title">
             <div class="card-header" :title="item.title">
-                <img :src="item.image" :alt="item.name">
+                <img :src="item.image" loading="lazy" :alt="item.name">
             </div>
             <div class="card-body">
                 <h3>{{ item.name }}</h3>
