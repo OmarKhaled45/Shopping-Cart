@@ -60,10 +60,19 @@
 body {
     margin: 0;
 
+    &,
+    &>div,
+    .main-cont {
+        min-height: 100vh;
+        min-height: 100dvh;
+        min-height: 100svh;
+    }
+
     &>div {
         position: relative;
         width: 100%;
         height: 100%;
+
     }
 }
 
@@ -279,4 +288,14 @@ button {
 
 .text-white {
     color: #fff;
+}
+
+.main-cont {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.mt-auto {
+    margin-top: auto;
 }
