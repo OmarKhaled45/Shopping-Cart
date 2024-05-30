@@ -5,5 +5,5 @@ import vue from '@vitejs/plugin-vue'
 export default defineConfig({
   // base: '/shopping-cart/',
   plugins: [vue()],
-  base: '/shopping-cart/'
+  base: '/'
 })

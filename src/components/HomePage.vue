@@ -254,7 +254,7 @@ export default {
             <ItemCard v-for="item in filteredItems" :key="item.id" :item="item" @add="addToCart"
                 @remove="removeFromCart" :in-cart="isInCart(item)" />
         </div>
-        <div class="container bg-primary total-cont">
+        <div class="container bg-primary total-cont mt-auto">
             <div class="total-price text-white" :aria-label="'Total price is ' + formatPrice(totalPrice) + ' EGP'">
                 <span>TOTAL PRICE:</span>
                 <span>{{ formatPrice(totalPrice) }} EGP</span>
